@@ -53,12 +53,9 @@ a { color: var(--plum); text-decoration: none; }
   letter-spacing: 0.5px;
   color: #fff;
 }
-.brand .mark {
-  width: 34px; height: 34px;
-  border-radius: 8px;
-  background: linear-gradient(135deg, var(--coral), var(--teal));
-  display: grid; place-items: center;
-  font-size: 15px; font-weight: 700; color: #fff;
+.brand .logo {
+  height: 40px;
+  width: auto;
 }
 .brand small {
   display: block;
